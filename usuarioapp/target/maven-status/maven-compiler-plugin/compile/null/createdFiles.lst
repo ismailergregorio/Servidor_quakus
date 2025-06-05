@@ -1,8 +1,0 @@
-com\example\controllers\ControleDeFrota.class
-com\example\controllers\ControleDeEntregas.class
-com\example\dto\FrotaDTO.class
-com\example\models\Tarefa.class
-com\example\models\Entrega.class
-com\example\dto\TarefaDTO.class
-com\example\models\Frota.class
-com\example\repository\FrotaRepository.class

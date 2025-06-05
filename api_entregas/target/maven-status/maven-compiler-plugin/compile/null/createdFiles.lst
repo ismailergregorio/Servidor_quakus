@@ -1,0 +1,4 @@
+com\example\models\Entregas.class
+com\example\controllers\ControleDeEntregas.class
+com\example\dto\EntregasDTO.class
+com\example\repository\RepositorioEntregas.class
