@@ -49,6 +49,7 @@ public class Entregas {
 
  public void setDataDeSaidaDeEntrega(Date dataDeSaidaDeEntrega) {
   this.dataDeSaidaDeEntrega = dataDeSaidaDeEntrega;
+  System.out.println("Ola");
  }
 
 }
