@@ -48,12 +48,12 @@ public class Frota {
         this.id = id;
     }
 
-    public String getModeloCaminha() {
+    public String getModeloCaminhao() {
         return modeloCaminhao;
     }
 
-    public void setModeloCaminha(String modeloCaminha) {
-        this.modeloCaminhao = modeloCaminha;
+    public void setModeloCaminhao(String modeloCaminhao) {
+        this.modeloCaminhao = modeloCaminhao;
     }
 
     public String getPlaca() {
